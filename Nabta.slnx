@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Nabta.Application/Nabta.Application.csproj" />
+  <Project Path="Nabta.Domain/Nabta.Domain.csproj" />
+  <Project Path="Nabta.Infrastructure/Nabta.Infrastructure.csproj" />
+  <Project Path="Nabta/Nabta.API.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@Nabta_HostAddress = http://localhost:5072
+
+GET {{Nabta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
